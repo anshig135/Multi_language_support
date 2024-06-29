@@ -5,7 +5,7 @@
 
 ## Project Overview📁🖊
 
-Bob's App aims to provide a seamless user experience by integrating multi-language support, catering to the diverse linguistic landscape of India. Currently, the app supports only three languages. Our solution expands this to include all 22-23 official languages of India and dynamically suggests languages based on the user's location.
+Bob's App aims to provide a seamless user experience by integrating multi-language support, catering to the diverse linguistic landscape of India. Currently, the app supports only thirteen languages. Our solution expands this to include all 22-23 official languages of India and dynamically suggests languages based on the user's location.
 ## Key Features🔑
 
 * Comprehensive Language Support: Integration of all 22-23 official languages of India.
