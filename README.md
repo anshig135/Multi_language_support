@@ -73,4 +73,4 @@ Bob's App aims to provide a seamless user experience by integrating multi-langua
 
 ![Machine Learning](https://tse1.mm.bing.net/th?id=OIP.NWx1F4mO2ayGorNHlt6H_gAAAA&pid=Api&P=0&h=100)
 
-![Azure Products](https://static-00.iconduck.com/assets.00/file-type-azure-icon-512x456-mtfku1q1.png)
+![Azure Products](https://cdn-icons-png.flaticon.com/128/873/873107.png)
